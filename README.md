@@ -44,8 +44,9 @@ Atuo atualmente como Analista de Manutenção Industrial e venho aplicando tecno
 #### 🧠 Fundamentos de IA Generativa
 ![IA Generativa](https://img.shields.io/badge/IA_Generativa-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LLMs](https://img.shields.io/badge/Modelos_de_Linguagem_(LLMs)-000000?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_(Geração_Aumentada_por_Recuperação)-5C2D91?style=for-the-badge&logo=python&logoColor=white)
 ![Embeddings](https://img.shields.io/badge/Embeddings-4CAF50?style=for-the-badge&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_(Geração_Aumentada_por_Recuperação)-5C2D91?style=for-the-badge&logo=python&logoColor=white)
+
 
 #### 🧩 Frameworks & Plataformas
 ![LangChain](https://img.shields.io/badge/LangChain-2B2B2B?style=for-the-badge&logo=chainlink&logoColor=white)
