@@ -78,7 +78,7 @@ Atuo há mais de 10 anos como Analista de Manutenção Industrial e venho aplica
 ## 📌 Projetos em Destaque
 
 #### 📊 Dashboard de manutenção Solar (Excel + VBA + SAP)
-Automação para agendamento de eventos com integração ao Google Calendar, utilizando agentes de IA e bots no Telegram.  
+Dashboard automatizado com principais indicadores para otimizar o fluxo de manutenção.  
 🔗 https://github.com/Alexsidius/Dashboard-Manutencao-Solar/blob/main/README.md
 
 #### 🤖 Bot de Agendamento com IA (n8n + Telegram + Agent Gemini + google calendário)
