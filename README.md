@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Alexandro Ferreira (Alexsidius)
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas, com MBA em Gestão da Manutenção  
+🎓 Profisisonal com formação em Análise e Desenvolvimento de Sistemas, com MBA em Gestão da Manutenção  
 📊 Em transição de carreira para Análise de Dados, Ciência de Dados e IA  
 🤖 Foco em Machine Learning, IA Generativa, Automação e Integrações via APIs  
 📍 Brasil  
@@ -16,6 +16,7 @@ Busco migrar profissionalmente para a área de **Análise de Dados, Ciência de 
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-1976D2?style=for-the-badge&logo=databricks&logoColor=white)
 ![EDA](https://img.shields.io/badge/EDA_(Exploratory_Data_Analysis)-4CAF50?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-867DB1?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-FF7043?style=for-the-badge&logo=powerpoint&logoColor=white)
 
