@@ -15,15 +15,14 @@ Busco migrar profissionalmente para a área de **Análise de Dados, Ciência de 
 ### 📊 Análise de Dados
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-1976D2?style=for-the-badge&logo=databricks&logoColor=white)
 ![EDA](https://img.shields.io/badge/EDA_(Exploratory_Data_Analysis)-4CAF50?style=for-the-badge&logo=python&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-607D8B?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-FF7043?style=for-the-badge&logo=powerpoint&logoColor=white)
 
 ---
 
-### 🐍 Linguagem & Bibliotecas
+### 🐍 Linguagem & Bibliotecas comuns
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -33,6 +32,7 @@ Busco migrar profissionalmente para a área de **Análise de Dados, Ciência de 
 ---
 
 ### 📈 Ciência de Dados & Machine Learning
+![Statistics](https://img.shields.io/badge/Statistics-607D8B?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-FF5722?style=for-the-badge&logo=python&logoColor=white)
@@ -41,14 +41,25 @@ Busco migrar profissionalmente para a área de **Análise de Dados, Ciência de 
 ---
 
 ### 🤖 IA Generativa & Automação
-![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-5C2D91?style=for-the-badge&logo=python&logoColor=white)
+#### 🧠 Fundamentos de IA Generativa
+![IA Generativa](https://img.shields.io/badge/IA_Generativa-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/Modelos_de_Linguagem_(LLMs)-000000?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_(Geração_Aumentada_por_Recuperação)-5C2D91?style=for-the-badge&logo=python&logoColor=white)
 ![Embeddings](https://img.shields.io/badge/Embeddings-4CAF50?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🧩 Frameworks & Plataformas
 ![LangChain](https://img.shields.io/badge/LangChain-2B2B2B?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white)
+
+#### 🧠 Modelos de LLMs
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+
+#### ⚙️ Automação & Integrações
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
@@ -65,7 +76,11 @@ Busco migrar profissionalmente para a área de **Análise de Dados, Ciência de 
 
 ## 📌 Projetos em Destaque
 
-### 🤖 Bot de Agendamento com IA (n8n + Telegram)
+### 📊 Dashboard de manutenção Solar (Excel + VBA + SAP)
+Automação para agendamento de eventos com integração ao Google Calendar, utilizando agentes de IA e bots no Telegram.  
+🔗 https://github.com/Alexsidius/Dashboard-Manutencao-Solar/blob/main/README.md
+
+### 🤖 Bot de Agendamento com IA (n8n + Telegram + Agent Gemini + google calendário)
 Automação para agendamento de eventos com integração ao Google Calendar, utilizando agentes de IA e bots no Telegram.  
 🔗 https://github.com/Alexsidius/N8n-Bot-telegram-gemini-agent-calendario
 
