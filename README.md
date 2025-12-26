@@ -95,5 +95,6 @@ Atuar na área de **Análise de Dados, Ciência de Dados, Inteligência Artifici
 ## 📫 Vamos nos conectar?
 🔗 LinkedIn: https://www.linkedin.com/in/alexsidius  
 🐙 GitHub: https://github.com/Alexsidius  
+🗂️ Portfólio de projetos: https://alexsidius.github.io/Portfolio-de-projetos/index.html
 
 ✨ Obrigado pela visita!
