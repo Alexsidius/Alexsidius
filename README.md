@@ -77,11 +77,11 @@ Busco migrar profissionalmente para a área de **Análise de Dados, Ciência de 
 
 ## 📌 Projetos em Destaque
 
-### 📊 Dashboard de manutenção Solar (Excel + VBA + SAP)
+#### 📊 Dashboard de manutenção Solar (Excel + VBA + SAP)
 Automação para agendamento de eventos com integração ao Google Calendar, utilizando agentes de IA e bots no Telegram.  
 🔗 https://github.com/Alexsidius/Dashboard-Manutencao-Solar/blob/main/README.md
 
-### 🤖 Bot de Agendamento com IA (n8n + Telegram + Agent Gemini + google calendário)
+#### 🤖 Bot de Agendamento com IA (n8n + Telegram + Agent Gemini + google calendário)
 Automação para agendamento de eventos com integração ao Google Calendar, utilizando agentes de IA e bots no Telegram.  
 🔗 https://github.com/Alexsidius/N8n-Bot-telegram-gemini-agent-calendario
 
