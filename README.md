@@ -1,11 +1,11 @@
-# 👋 Olá! Eu sou o Alexandro (Alexsidius)
+# 👋 Olá! Eu sou o Alexandro Ferreira(Alexsidius)
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas  
+🎓 Profissional com formação em Análise e Desenvolvimento de Sistemas e MBA em gestão da manutenção e apaixonado por tecnologia e análise de dados. 
 📊 Estudante de Ciência de Dados e Inteligência Artificial  
-🤖 Foco em IA Generativa, Automação e Integrações com APIs  
+🤖 Foco em machine learning, IA Generativa, Automação e Integrações com APIs  
 📍 Brasil  
 
-Trabalho como Analista de manutenção industrial. Sou apaixonado por tecnologia, dados e soluções inteligentes que automatizam processos e geram valor real.  
+Trabalho como Analista de manutenção industrial. Sou apaixonado por tecnologia.  
 Busco migrar para área de *Ciência de Dados e IA Generativa e Automação**.
 
 ---
