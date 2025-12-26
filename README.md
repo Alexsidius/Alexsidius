@@ -41,6 +41,13 @@ Atuo há mais de 10 anos como Analista de Manutenção Industrial e venho aplica
 ---
 
 ### 🤖 IA Generativa & Automação
+
+#### 🧠 Modelos de LLMs
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+
 #### 🧠 Fundamentos de IA Generativa
 ![IA Generativa](https://img.shields.io/badge/IA_Generativa-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LLMs](https://img.shields.io/badge/Modelos_de_Linguagem_(LLMs)-000000?style=for-the-badge&logo=openai&logoColor=white)
@@ -48,18 +55,12 @@ Atuo há mais de 10 anos como Analista de Manutenção Industrial e venho aplica
 ![Embeddings](https://img.shields.io/badge/Embeddings-4CAF50?style=for-the-badge&logo=python&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_(Geração_Aumentada_por_Recuperação)-5C2D91?style=for-the-badge&logo=python&logoColor=white)
 
-
 #### 🧩 Frameworks & Plataformas
 ![LangChain](https://img.shields.io/badge/LangChain-2B2B2B?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white)
 
-#### 🧠 Modelos de LLMs
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 
 #### ⚙️ Automação & Integrações
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
