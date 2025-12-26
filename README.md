@@ -23,7 +23,7 @@ Busco migrar para área de *Ciência de Dados e IA Generativa e Automação**.
 ![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-FF7043?style=for-the-badge&logo=powerpoint&logoColor=white)
 
 
-### 🐍 Linguagem & Bibliotecas
+### 🐍 Linguagem & Bibliotecas comuns
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
