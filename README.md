@@ -5,8 +5,8 @@
 🤖 Foco em IA Generativa, Automação e Integrações com APIs  
 📍 Brasil  
 
-Sou apaixonado por tecnologia, dados e soluções inteligentes que automatizam processos e geram valor real.  
-Trabalho como Analista de manutenção industrial e busco migrar para área de TI com foco em **Ciência de Dados e IA Generativa e Automação**.
+Trabalho como Analista de manutenção industrial. Sou apaixonado por tecnologia, dados e soluções inteligentes que automatizam processos e geram valor real.  
+Busco migrar para área de *Ciência de Dados e IA Generativa e Automação**.
 
 ---
 
@@ -37,6 +37,7 @@ Trabalho como Analista de manutenção industrial e busco migrar para área de T
 ![Statistics](https://img.shields.io/badge/Statistics-607D8B?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
 ### 🤖 IA Generativa & Automação
