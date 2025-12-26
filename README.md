@@ -5,7 +5,7 @@
 🤖 Foco em Machine Learning, IA Generativa, Automação e Integrações via APIs  
 📍 Brasil  
 
-Atuo atualmente como Analista de Manutenção Industrial e venho aplicando tecnologia, dados e automação para resolver problemas reais e apoiar a tomada de decisão. Busco migrar profissionalmente para a área de **Análise de Dados, Ciência de Dados e IA Generativa**.
+Atuo há mais de 10 anos como Analista de Manutenção Industrial e venho aplicando tecnologia, dados e automação para resolver problemas reais e apoiar a tomada de decisão. Busco migrar profissionalmente para a área de **Análise de Dados, Ciência de Dados e IA Generativa**.
 
 ---
 
