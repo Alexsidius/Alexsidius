@@ -42,7 +42,7 @@ Atuo há mais de 10 anos como Analista de Manutenção Industrial e venho aplica
 
 ### 🤖 IA Generativa & Automação
 
-#### 🧠 Modelos de LLMs
+#### 🧠 Modelos de IA Generativa
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
